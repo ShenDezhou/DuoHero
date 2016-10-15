@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: abc6ada55085faf428d1991dbb17b229
+timeCreated: 1458876335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Girl_Idle
+    21300002: Player_Girl_AttackA_1
+    21300004: Player_Girl_AttackA_2
+    21300006: Player_Girl_AttackA_3
+    21300008: Player_Girl_AttackA_4
+    21300010: Player_Girl_AttackA_5
+    21300012: Player_Girl_AttackA_6
+    21300014: Player_Girl_AttackA_7
+    21300016: Player_Girl_AttackA_8
+    21300018: Player_Girl_AttackA_9
+    21300020: Player_Girl_AttackA_10
+    21300022: Player_Girl_AttackB_1
+    21300024: Player_Girl_AttackB_2
+    21300026: Player_Girl_AttackB_3
+    21300028: Player_Girl_AttackB_4
+    21300030: Player_Girl_AttackB_5
+    21300032: Player_Girl_AttackB_6
+    21300034: Player_Girl_AttackB_7
+    21300036: Player_Girl_AttackB_8
+    21300038: Player_Girl_Switch_1
+    21300040: Player_Girl_Switch_2
+    21300042: Player_Girl_Die_1
+    21300044: Player_Girl_Die_2
+    21300046: Player_Girl_Die_3
+    21300048: Player_Girl_Die_4
+    21300050: Player_Girl_Die_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Girl_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 69}
+        - {x: -134, y: -160}
+        - {x: -39, y: -160}
+        - {x: -39, y: 69}
+      - - {x: -170, y: -145}
+        - {x: -170, y: -150}
+        - {x: -165, y: -150}
+        - {x: -164, y: -149}
+        - {x: -164, y: -146}
+        - {x: -166, y: -144}
+        - {x: -168, y: -144}
+      - - {x: -135, y: -26}
+        - {x: -139, y: -35}
+        - {x: -139, y: -47}
+        - {x: -135, y: -47}
+        - {x: -132, y: -45}
+        - {x: -126, y: -35}
+        - {x: -126, y: -30}
+        - {x: -128, y: -26}
+      - - {x: -136, y: -24}
+        - {x: -141, y: -24}
+        - {x: -141, y: -29}
+        - {x: -139, y: -30}
+        - {x: -136, y: -30}
+        - {x: -135, y: -28}
+        - {x: -135, y: -25}
+      - - {x: -123, y: -8}
+        - {x: -120, y: -11}
+        - {x: -117, y: -10}
+        - {x: -117, y: -7}
+        - {x: -118, y: -5}
+        - {x: -121, y: -5}
+        - {x: -123, y: -6}
+    - name: Player_Girl_AttackA_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 49}
+        - {x: -78, y: 47}
+        - {x: -81, y: 26}
+        - {x: -106, y: 40}
+        - {x: -177, y: 14}
+        - {x: -177, y: -160}
+        - {x: -47, y: -160}
+        - {x: 12, y: -85}
+        - {x: 12, y: 40}
+        - {x: -18, y: 49}
+    - name: Player_Girl_AttackA_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 38}
+        - {x: -38, y: 29}
+        - {x: -48, y: 38}
+        - {x: -72, y: 38}
+        - {x: -119, y: 37}
+        - {x: -147, y: 0}
+        - {x: -147, y: -20}
+        - {x: -145, y: -24}
+        - {x: -131, y: -28}
+        - {x: -79, y: -160}
+        - {x: -71, y: -160}
+        - {x: -26, y: -151}
+        - {x: -16, y: -142}
+        - {x: -14, y: -140}
+        - {x: -14, y: -157}
+        - {x: -13, y: -160}
+        - {x: 14, y: -160}
+        - {x: 88, y: -105}
+        - {x: 88, y: -38}
+        - {x: 9, y: 38}
+    - name: Player_Girl_AttackA_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -139}
+        - {x: 40, y: -111}
+        - {x: 28, y: -100}
+        - {x: 20, y: -94}
+        - {x: 81, y: -83}
+        - {x: 106, y: -52}
+        - {x: 106, y: 29}
+        - {x: 8, y: 60}
+        - {x: -61, y: 60}
+        - {x: -114, y: 29}
+        - {x: -114, y: -159}
+        - {x: -113, y: -160}
+        - {x: -52, y: -160}
+        - {x: -50, y: -157}
+        - {x: -42, y: -130}
+        - {x: -34, y: -160}
+        - {x: 20, y: -160}
+    - name: Player_Girl_AttackA_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -160}
+        - {x: 46, y: -134}
+        - {x: 33, y: -102}
+        - {x: 94, y: -28}
+        - {x: 94, y: 12}
+        - {x: 66, y: 48}
+        - {x: -17, y: 61}
+        - {x: -46, y: 61}
+        - {x: -134, y: -9}
+        - {x: -134, y: -123}
+        - {x: -110, y: -160}
+        - {x: -55, y: -160}
+        - {x: -53, y: -158}
+        - {x: -46, y: -140}
+        - {x: -31, y: -160}
+    - name: Player_Girl_AttackA_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 61}
+        - {x: -88, y: 61}
+        - {x: -138, y: -32}
+        - {x: -138, y: -89}
+        - {x: -75, y: -160}
+        - {x: 50, y: -160}
+        - {x: 106, y: -75}
+        - {x: 106, y: 2}
+        - {x: 102, y: 6}
+    - name: Player_Girl_AttackA_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -50}
+        - {x: 7, y: 0}
+        - {x: 7, y: 24}
+        - {x: 3, y: 41}
+        - {x: -35, y: 64}
+        - {x: -92, y: 64}
+        - {x: -93, y: 50}
+        - {x: -85, y: 46}
+        - {x: -78, y: 46}
+        - {x: -81, y: 45}
+        - {x: -84, y: 46}
+        - {x: -86, y: 46}
+        - {x: -90, y: 47}
+        - {x: -100, y: 47}
+        - {x: -112, y: 40}
+        - {x: -112, y: 15}
+        - {x: -88, y: -160}
+        - {x: 7, y: -160}
+        - {x: 7, y: -78}
+        - {x: 5, y: -65}
+    - name: Player_Girl_AttackA_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 62}
+        - {x: -119, y: 58}
+        - {x: -146, y: 27}
+        - {x: -146, y: -88}
+        - {x: -124, y: -160}
+        - {x: 25, y: -160}
+        - {x: 25, y: -55}
+        - {x: 24, y: -46}
+        - {x: -30, y: 57}
+        - {x: -43, y: 62}
+      - - {x: -127, y: 43}
+        - {x: -127, y: 41}
+        - {x: -124, y: 38}
+        - {x: -121, y: 38}
+        - {x: -119, y: 40}
+        - {x: -120, y: 43}
+        - {x: -125, y: 45}
+    - name: Player_Girl_AttackA_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -160}
+        - {x: 14, y: -160}
+        - {x: 14, y: 17}
+        - {x: 6, y: 63}
+        - {x: -110, y: 63}
+        - {x: -138, y: 57}
+        - {x: -138, y: -51}
+      - - {x: -100, y: 50}
+        - {x: -102, y: 48}
+        - {x: -102, y: 46}
+        - {x: -99, y: 43}
+        - {x: -97, y: 43}
+        - {x: -95, y: 45}
+        - {x: -95, y: 47}
+        - {x: -98, y: 50}
+      - - {x: -108, y: 50}
+        - {x: -108, y: 49}
+        - {x: -105, y: 46}
+        - {x: -102, y: 47}
+        - {x: -102, y: 50}
+        - {x: -104, y: 52}
+        - {x: -106, y: 52}
+    - name: Player_Girl_AttackA_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 640
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: 63}
+        - {x: -126, y: 61}
+        - {x: -126, y: -132}
+        - {x: -94, y: -160}
+        - {x: 4, y: -160}
+        - {x: 4, y: -37}
+        - {x: -15, y: 63}
+    - name: Player_Girl_AttackA_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -53}
+        - {x: -14, y: 63}
+        - {x: -89, y: 63}
+        - {x: -118, y: 48}
+        - {x: -118, y: -82}
+        - {x: -74, y: -160}
+        - {x: -28, y: -160}
+        - {x: -25, y: -154}
+        - {x: -15, y: -160}
+        - {x: 4, y: -160}
+    - name: Player_Girl_AttackB_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 86}
+        - {x: -93, y: 76}
+        - {x: -110, y: 41}
+        - {x: -110, y: -25}
+        - {x: -62, y: -160}
+        - {x: 0, y: -160}
+        - {x: 0, y: -148}
+        - {x: -19, y: -60}
+        - {x: -24, y: 81}
+        - {x: -27, y: 86}
+      - - {x: -34, y: -158}
+        - {x: -34, y: -160}
+        - {x: -27, y: -160}
+        - {x: -27, y: -158}
+        - {x: -29, y: -156}
+        - {x: -32, y: -156}
+    - name: Player_Girl_AttackB_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 66}
+        - {x: -122, y: 56}
+        - {x: -144, y: 16}
+        - {x: -144, y: -53}
+        - {x: -126, y: -72}
+        - {x: -105, y: -79}
+        - {x: -80, y: -72}
+        - {x: -68, y: -39}
+        - {x: -73, y: -59}
+        - {x: -79, y: -153}
+        - {x: -72, y: -160}
+        - {x: -6, y: -160}
+        - {x: 74, y: -38}
+        - {x: 74, y: 37}
+        - {x: 27, y: 66}
+    - name: Player_Girl_AttackB_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 3}
+        - {x: 55, y: -1}
+        - {x: 53, y: 56}
+        - {x: 20, y: 74}
+        - {x: -62, y: 74}
+        - {x: -116, y: 46}
+        - {x: -116, y: 12}
+        - {x: -96, y: 7}
+        - {x: -110, y: -49}
+        - {x: -108, y: -160}
+        - {x: 41, y: -160}
+        - {x: 71, y: -91}
+        - {x: 82, y: -56}
+        - {x: 82, y: -6}
+    - name: Player_Girl_AttackB_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 50}
+        - {x: -56, y: 50}
+        - {x: -170, y: -9}
+        - {x: -170, y: -50}
+        - {x: -153, y: -66}
+        - {x: -118, y: -62}
+        - {x: -94, y: -56}
+        - {x: -93, y: -160}
+        - {x: 27, y: -160}
+        - {x: 106, y: -55}
+        - {x: 113, y: -30}
+        - {x: 113, y: 45}
+    - name: Player_Girl_AttackB_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 38}
+        - {x: -100, y: 38}
+        - {x: -114, y: 5}
+        - {x: -114, y: -100}
+        - {x: -102, y: -160}
+        - {x: 14, y: -160}
+        - {x: 79, y: -92}
+        - {x: 79, y: -31}
+        - {x: 46, y: 3}
+      - - {x: -98, y: -127}
+        - {x: -98, y: -128}
+        - {x: -96, y: -130}
+        - {x: -94, y: -130}
+        - {x: -91, y: -127}
+        - {x: -92, y: -124}
+        - {x: -95, y: -124}
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: 0}
+        - {x: -2, y: -2}
+        - {x: 0, y: -2}
+        - {x: 2, y: 0}
+        - {x: 2, y: 2}
+        - {x: 0, y: 4}
+    - name: Player_Girl_AttackB_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 34}
+        - {x: -101, y: 19}
+        - {x: -101, y: -160}
+        - {x: 44, y: -160}
+        - {x: 44, y: 17}
+        - {x: 38, y: 34}
+      - - {x: -103, y: -150}
+        - {x: -104, y: -153}
+        - {x: -104, y: -158}
+        - {x: -99, y: -158}
+        - {x: -98, y: -156}
+        - {x: -97, y: -150}
+        - {x: -100, y: -148}
+    - name: Player_Girl_AttackB_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 22}
+        - {x: -104, y: -37}
+        - {x: -104, y: -160}
+        - {x: 21, y: -160}
+        - {x: 22, y: -157}
+        - {x: 22, y: -92}
+        - {x: -24, y: 22}
+    - name: Player_Girl_AttackB_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 14}
+        - {x: -79, y: 14}
+        - {x: -98, y: 6}
+        - {x: -106, y: -77}
+        - {x: -106, y: -160}
+        - {x: 0, y: -160}
+        - {x: 0, y: -149}
+        - {x: -19, y: -19}
+      - - {x: -36, y: -42}
+        - {x: -36, y: -49}
+        - {x: -31, y: -49}
+        - {x: -30, y: -46}
+        - {x: -30, y: -43}
+        - {x: -32, y: -42}
+    - name: Player_Girl_Switch_1
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 320
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 22}
+        - {x: -48, y: -6}
+        - {x: -28, y: -23}
+        - {x: -23, y: -26}
+        - {x: -52, y: -50}
+        - {x: -55, y: -56}
+        - {x: -55, y: -72}
+        - {x: -13, y: -122}
+        - {x: 73, y: -156}
+        - {x: 115, y: -156}
+        - {x: 137, y: -127}
+        - {x: 137, y: -55}
+        - {x: 79, y: 22}
+    - name: Player_Girl_Switch_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 37}
+        - {x: -82, y: 37}
+        - {x: -96, y: -5}
+        - {x: -96, y: -112}
+        - {x: -69, y: -160}
+        - {x: 37, y: -160}
+        - {x: 76, y: -140}
+        - {x: 76, y: -57}
+        - {x: 71, y: -37}
+    - name: Player_Girl_Die_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141, y: 66}
+        - {x: -161, y: 5}
+        - {x: -161, y: -108}
+        - {x: -124, y: -160}
+        - {x: -65, y: -160}
+        - {x: -42, y: -111}
+        - {x: -42, y: 7}
+        - {x: -104, y: 66}
+      - - {x: -162, y: -100}
+        - {x: -160, y: -102}
+        - {x: -157, y: -101}
+        - {x: -157, y: -98}
+        - {x: -159, y: -96}
+        - {x: -162, y: -97}
+    - name: Player_Girl_Die_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: 61}
+        - {x: -142, y: 61}
+        - {x: -150, y: 57}
+        - {x: -151, y: 49}
+        - {x: -151, y: -111}
+        - {x: -122, y: -160}
+        - {x: -55, y: -160}
+        - {x: -37, y: -95}
+        - {x: -37, y: 0}
+        - {x: -105, y: 53}
+      - - {x: -161, y: -82}
+        - {x: -159, y: -84}
+        - {x: -156, y: -83}
+        - {x: -156, y: -80}
+        - {x: -158, y: -78}
+        - {x: -161, y: -79}
+    - name: Player_Girl_Die_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142, y: 13}
+        - {x: -153, y: 1}
+        - {x: -151, y: -24}
+        - {x: -166, y: -62}
+        - {x: -166, y: -107}
+        - {x: -148, y: -142}
+        - {x: -123, y: -155}
+        - {x: -113, y: -149}
+        - {x: -111, y: -131}
+        - {x: -103, y: -137}
+        - {x: -114, y: -159}
+        - {x: -114, y: -160}
+        - {x: -51, y: -160}
+        - {x: -51, y: -1}
+        - {x: -89, y: 13}
+    - name: Player_Girl_Die_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -35}
+        - {x: -129, y: -35}
+        - {x: -143, y: -49}
+        - {x: -143, y: -160}
+        - {x: -39, y: -160}
+        - {x: -39, y: -106}
+        - {x: -42, y: -66}
+      - - {x: -57, y: -63}
+        - {x: -54, y: -62}
+        - {x: -54, y: -59}
+        - {x: -57, y: -58}
+        - {x: -59, y: -60}
+    - name: Player_Girl_Die_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -169, y: -146}
+        - {x: -172, y: -147}
+        - {x: -176, y: -156}
+        - {x: -176, y: -160}
+        - {x: -168, y: -160}
+        - {x: -164, y: -153}
+        - {x: -164, y: -146}
+      - - {x: -35, y: -160}
+        - {x: -35, y: -94}
+        - {x: -71, y: -31}
+        - {x: -135, y: -31}
+        - {x: -159, y: -135}
+        - {x: -159, y: -160}
+      - - {x: -26, y: -108}
+        - {x: -28, y: -110}
+        - {x: -29, y: -114}
+        - {x: -25, y: -120}
+        - {x: -21, y: -120}
+        - {x: -20, y: -118}
+        - {x: -20, y: -112}
+        - {x: -24, y: -108}
+      - - {x: -157, y: -82}
+        - {x: -161, y: -86}
+        - {x: -161, y: -95}
+        - {x: -158, y: -99}
+        - {x: -155, y: -98}
+        - {x: -152, y: -90}
+        - {x: -151, y: -85}
+        - {x: -155, y: -82}
+      - - {x: -31, y: -85}
+        - {x: -30, y: -88}
+        - {x: -27, y: -88}
+        - {x: -25, y: -86}
+        - {x: -26, y: -83}
+        - {x: -29, y: -83}
+      - - {x: -136, y: -65}
+        - {x: -147, y: -65}
+        - {x: -151, y: -71}
+        - {x: -151, y: -78}
+        - {x: -139, y: -78}
+        - {x: -133, y: -73}
+        - {x: -133, y: -70}
+      - - {x: -136, y: -54}
+        - {x: -134, y: -56}
+        - {x: -131, y: -55}
+        - {x: -130, y: -50}
+        - {x: -132, y: -48}
+        - {x: -135, y: -49}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/obj/Debug/Assembly-CSharp.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/UnityEngine.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/UnityEditor.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Mono.Cecil.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Unity.DataContract.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/chenming/Desktop/unity/Surrounded_V23_Random/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 9178b2415c3d4472883da034146aaf2f
+timeCreated: 1466844928
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fg_fog_0
+    21300002: fg_fog_1
+    21300004: fg_fog_2
+    21300006: fg_fog_3
+    21300008: fg_fog_4
+    21300010: fg_fog_5
+    21300012: fg_fog_6
+    21300014: fg_fog_7
+    21300016: fg_fog_8
+    21300018: fg_fog_9
+    21300020: fg_fog_10
+    21300022: fg_fog_11
+    21300024: fg_fog_12
+    21300026: fg_fog_13
+    21300028: fg_fog_14
+    21300030: fg_fog_15
+    21300032: fg_fog_16
+    21300034: fg_fog_17
+    21300036: fg_fog_18
+    21300038: fg_fog_19
+    21300040: fg_fog_20
+    21300042: fg_fog_21
+    21300044: fg_fog_22
+    21300046: fg_fog_23
+    21300048: fg_fog_24
+    21300050: fg_fog_25
+    21300052: fg_fog_26
+    21300054: fg_fog_27
+    21300056: fg_fog_28
+    21300058: fg_fog_29
+    21300060: fg_fog_30
+    21300062: fg_fog_31
+    21300064: fg_fog_32
+    21300066: fg_fog_33
+    21300068: fg_fog_34
+    21300070: fg_fog_35
+    21300072: fg_fog_36
+    21300074: fg_fog_37
+    21300076: fg_fog_38
+    21300078: fg_fog_39
+    21300080: fg_fog_40
+    21300082: fg_fog_41
+    21300084: fg_fog_42
+    21300086: fg_fog_43
+    21300088: fg_fog_44
+    21300090: fg_fog_45
+    21300092: fg_fog_46
+    21300094: fg_fog_47
+    21300096: fg_fog_48
+    21300098: fg_fog_49
+    21300100: fg_fog_50
+    21300102: fg_fog_51
+    21300104: fg_fog_52
+    21300106: fg_fog_53
+    21300108: fg_fog_54
+    21300110: fg_fog_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fg_fog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -15.999939}
+        - {x: -128, y: -71.99994}
+        - {x: 128, y: -71.99994}
+        - {x: 128, y: -24.999939}
+        - {x: -26, y: -15.999939}
+    - name: fg_fog_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -15.999939}
+        - {x: -128, y: -71.99994}
+        - {x: 128, y: -71.99994}
+        - {x: 128, y: -21.999939}
+        - {x: 24, y: -15.999939}
+    - name: fg_fog_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -19.999939}
+        - {x: 108, y: -15.999939}
+        - {x: -128, y: -15.999939}
+        - {x: -128, y: -71.99994}
+        - {x: 128, y: -71.99994}
+    - name: fg_fog_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.000061, y: -15.999939}
+        - {x: -127.99994, y: -15.999939}
+        - {x: -127.99994, y: -71.99994}
+        - {x: 128.00006, y: -71.99994}
+        - {x: 128.00006, y: -27.999939}
+        - {x: 92.00006, y: -21.999939}
+    - name: fg_fog_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -15.999939}
+        - {x: -128, y: -15.999939}
+        - {x: -128, y: -71.99994}
+        - {x: 128, y: -71.99994}
+        - {x: 128, y: -27.999939}
+        - {x: 56, y: -17.999939}
+    - name: fg_fog_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -15.999939}
+        - {x: -128.49988, y: -71.99994}
+        - {x: 128.50012, y: -71.99994}
+        - {x: 128.50012, y: -16.999939}
+        - {x: 98.50012, y: -15.999939}
+    - name: fg_fog_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -15.999939}
+        - {x: -128.49988, y: -71.99994}
+        - {x: 128.50012, y: -71.99994}
+        - {x: 128.50012, y: -15.999939}
+    - name: fg_fog_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.99988, y: -15.999939}
+        - {x: -127.99988, y: -71.99994}
+        - {x: 128.00012, y: -71.99994}
+        - {x: 128.00012, y: -20.999939}
+        - {x: 56.000122, y: -15.999939}
+    - name: fg_fog_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16.499939}
+        - {x: -128, y: -72.49994}
+        - {x: 128, y: -72.49994}
+        - {x: 128, y: -21.499939}
+        - {x: 80, y: -16.499939}
+      - - {x: -128, y: 72.50006}
+        - {x: -128, y: 69.50006}
+        - {x: -8, y: 69.50006}
+        - {x: -6, y: 71.50006}
+        - {x: -6, y: 72.50006}
+      - - {x: 18, y: 72.50006}
+        - {x: 19, y: 69.50006}
+        - {x: 128, y: 69.50006}
+        - {x: 128, y: 72.50006}
+    - name: fg_fog_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -16.499939}
+        - {x: -128, y: -16.499939}
+        - {x: -128, y: -72.49994}
+        - {x: 128, y: -72.49994}
+        - {x: 128, y: -25.499939}
+        - {x: 118, y: -17.499939}
+      - - {x: -128, y: 72.50006}
+        - {x: -128, y: 69.50006}
+        - {x: -8, y: 69.50006}
+        - {x: -6, y: 71.50006}
+        - {x: -6, y: 72.50006}
+      - - {x: 19, y: 72.50006}
+        - {x: 20, y: 69.50006}
+        - {x: 128, y: 69.50006}
+        - {x: 128, y: 72.50006}
+    - name: fg_fog_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16.499939}
+        - {x: -128, y: -72.49994}
+        - {x: 128, y: -72.49994}
+        - {x: 128, y: -23.499939}
+        - {x: -3, y: -16.499939}
+      - - {x: -128, y: 72.50006}
+        - {x: -128, y: 69.50006}
+        - {x: -9, y: 69.50006}
+        - {x: -7, y: 71.50006}
+        - {x: -7, y: 72.50006}
+      - - {x: 19, y: 72.50006}
+        - {x: 20, y: 69.50006}
+        - {x: 128, y: 69.50006}
+        - {x: 128, y: 72.50006}
+    - name: fg_fog_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.99994, y: -16.499939}
+        - {x: -127.99994, y: -17.499939}
+        - {x: -127.99994, y: -72.49994}
+        - {x: 128.00006, y: -72.49994}
+        - {x: 128.00006, y: -25.499939}
+        - {x: -23.999939, y: -16.499939}
+      - - {x: -127.99994, y: 72.50006}
+        - {x: -127.99994, y: 69.50006}
+        - {x: -9.999939, y: 69.50006}
+        - {x: -7.999939, y: 71.50006}
+        - {x: -7.999939, y: 72.50006}
+      - - {x: 19.000061, y: 72.50006}
+        - {x: 20.000061, y: 69.50006}
+        - {x: 128.00006, y: 69.50006}
+        - {x: 128.00006, y: 72.50006}
+    - name: fg_fog_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: -27.499939}
+        - {x: -88, y: -16.499939}
+        - {x: -120, y: -16.499939}
+        - {x: -128, y: -17.499939}
+        - {x: -128, y: -71.49994}
+        - {x: -126, y: -72.49994}
+        - {x: 127, y: -72.49994}
+        - {x: 128, y: -71.49994}
+        - {x: 128, y: -29.499939}
+        - {x: 117, y: -27.499939}
+      - - {x: -128, y: 72.50006}
+        - {x: -128, y: 69.50006}
+        - {x: -11, y: 69.50006}
+        - {x: -9, y: 71.50006}
+        - {x: -9, y: 72.50006}
+      - - {x: 19, y: 72.50006}
+        - {x: 20, y: 69.50006}
+        - {x: 128, y: 69.50006}
+        - {x: 128, y: 72.50006}
+    - name: fg_fog_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -16.499939}
+        - {x: -128.49988, y: -72.49994}
+        - {x: 128.50012, y: -72.49994}
+        - {x: 128.50012, y: -18.499939}
+        - {x: 82.50012, y: -16.499939}
+      - - {x: -128.49988, y: 72.50006}
+        - {x: -128.49988, y: 69.50006}
+        - {x: -12.499878, y: 69.50006}
+        - {x: -10.499878, y: 71.50006}
+        - {x: -10.499878, y: 72.50006}
+      - - {x: 18.500122, y: 72.50006}
+        - {x: 19.500122, y: 69.50006}
+        - {x: 127.50012, y: 69.50006}
+        - {x: 128.50012, y: 70.50006}
+        - {x: 128.50012, y: 72.50006}
+    - name: fg_fog_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -16.499939}
+        - {x: -128.49988, y: -72.49994}
+        - {x: 128.50012, y: -72.49994}
+        - {x: 128.50012, y: -19.499939}
+        - {x: 28.500122, y: -16.499939}
+      - - {x: -125.49988, y: 72.50006}
+        - {x: -124.49988, y: 69.50006}
+        - {x: -14.499878, y: 69.50006}
+        - {x: -12.499878, y: 71.50006}
+        - {x: -12.499878, y: 72.50006}
+      - - {x: 19.500122, y: 72.50006}
+        - {x: 20.500122, y: 69.50006}
+        - {x: 127.50012, y: 69.50006}
+        - {x: 128.50012, y: 70.50006}
+        - {x: 128.50012, y: 72.50006}
+    - name: fg_fog_15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.99988, y: -16.499939}
+        - {x: -127.99988, y: -18.499939}
+        - {x: -127.99988, y: -72.49994}
+        - {x: 128.00012, y: -72.49994}
+        - {x: 128.00012, y: -22.499939}
+        - {x: 37.000122, y: -16.499939}
+      - - {x: -118.99988, y: 72.50006}
+        - {x: -117.99988, y: 69.50006}
+        - {x: -15.999878, y: 69.50006}
+        - {x: -13.999878, y: 71.50006}
+        - {x: -13.999878, y: 72.50006}
+      - - {x: 7.000122, y: 72.50006}
+        - {x: 8.000122, y: 69.50006}
+        - {x: 127.00012, y: 69.50006}
+        - {x: 128.00012, y: 70.50006}
+        - {x: 128.00012, y: 72.50006}
+    - name: fg_fog_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: -15}
+        - {x: -128, y: -17}
+        - {x: -128, y: -72}
+        - {x: 122, y: -72}
+        - {x: 128, y: -71}
+        - {x: 128, y: -20}
+        - {x: 43, y: -15}
+    - name: fg_fog_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -15}
+        - {x: -127, y: -15}
+        - {x: -128, y: -17}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -27}
+        - {x: 41, y: -24}
+    - name: fg_fog_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -15}
+        - {x: -125, y: -15}
+        - {x: -128, y: -19}
+        - {x: -128, y: -72}
+        - {x: 121, y: -72}
+        - {x: 128, y: -71}
+        - {x: 128, y: -27}
+        - {x: 113, y: -20}
+    - name: fg_fog_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.99994, y: -22}
+        - {x: -127.99994, y: -72}
+        - {x: 120.00006, y: -72}
+        - {x: 128.00006, y: -69}
+        - {x: 128.00006, y: -22}
+      - - {x: -126.99994, y: -14}
+        - {x: -127.99994, y: -16}
+        - {x: -127.99994, y: -18}
+        - {x: -124.99994, y: -22}
+        - {x: -96.99994, y: -22}
+        - {x: -91.99994, y: -21}
+        - {x: -90.99994, y: -21}
+        - {x: -90.99994, y: -16}
+        - {x: -92.99994, y: -14}
+    - name: fg_fog_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -23}
+        - {x: -128, y: -72}
+        - {x: 120, y: -72}
+        - {x: 128, y: -69}
+        - {x: 128, y: -23}
+      - - {x: -127, y: -14}
+        - {x: -128, y: -16}
+        - {x: -128, y: -18}
+        - {x: -125, y: -22}
+        - {x: -97, y: -22}
+        - {x: -92, y: -21}
+        - {x: -91, y: -21}
+        - {x: -91, y: -16}
+        - {x: -93, y: -14}
+    - name: fg_fog_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -23}
+        - {x: -128.49988, y: -72}
+        - {x: 128.50012, y: -72}
+        - {x: 128.50012, y: -23}
+      - - {x: -128.49988, y: -14}
+        - {x: -128.49988, y: -22}
+        - {x: -89.49988, y: -22}
+        - {x: -88.49988, y: -20}
+        - {x: -88.49988, y: -14}
+      - - {x: 125.50012, y: -19}
+        - {x: 127.50012, y: -21}
+        - {x: 128.50012, y: -21}
+        - {x: 128.50012, y: -15}
+        - {x: 125.50012, y: -16}
+    - name: fg_fog_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.499878, y: -23}
+        - {x: -128.49988, y: -23}
+        - {x: -128.49988, y: -72}
+        - {x: 128.50012, y: -72}
+        - {x: 128.50012, y: -24}
+        - {x: 66.50012, y: -24}
+      - - {x: -93.49988, y: -14}
+        - {x: -125.49988, y: -14}
+        - {x: -128.49988, y: -15}
+        - {x: -128.49988, y: -21}
+        - {x: -125.49988, y: -22}
+        - {x: -94.49988, y: -22}
+        - {x: -90.49988, y: -20}
+        - {x: -88.49988, y: -18}
+        - {x: -89.49988, y: -15}
+      - - {x: 125.50012, y: -19}
+        - {x: 127.50012, y: -21}
+        - {x: 128.50012, y: -21}
+        - {x: 128.50012, y: -15}
+        - {x: 125.50012, y: -16}
+    - name: fg_fog_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.99988, y: -23}
+        - {x: -127.99988, y: -24}
+        - {x: -127.99988, y: -72}
+        - {x: 114.00012, y: -72}
+        - {x: 128.00012, y: -69}
+        - {x: 128.00012, y: -23}
+      - - {x: -92.99988, y: -14}
+        - {x: -124.99988, y: -14}
+        - {x: -127.99988, y: -15}
+        - {x: -127.99988, y: -21}
+        - {x: -124.99988, y: -22}
+        - {x: -93.99988, y: -22}
+        - {x: -89.99988, y: -20}
+        - {x: -87.99988, y: -18}
+        - {x: -88.99988, y: -15}
+    - name: fg_fog_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -22.99997}
+        - {x: -128, y: -71.99997}
+        - {x: 114, y: -71.99997}
+        - {x: 128, y: -68.99997}
+        - {x: 128, y: -22.99997}
+      - - {x: -128, y: -13.9999695}
+        - {x: -128, y: -21.99997}
+        - {x: -94, y: -21.99997}
+        - {x: -89, y: -18.99997}
+        - {x: -89, y: -13.9999695}
+    - name: fg_fog_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -22.99997}
+        - {x: -128, y: -71.99997}
+        - {x: 118, y: -71.99997}
+        - {x: 128, y: -69.99997}
+        - {x: 128, y: -26.99997}
+        - {x: 121, y: -22.99997}
+      - - {x: -125, y: -13.9999695}
+        - {x: -128, y: -14.9999695}
+        - {x: -128, y: -21.99997}
+        - {x: -93, y: -21.99997}
+        - {x: -92, y: -17.99997}
+        - {x: -93, y: -13.9999695}
+    - name: fg_fog_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -22.99997}
+        - {x: -128, y: -71.99997}
+        - {x: 118, y: -71.99997}
+        - {x: 128, y: -69.99997}
+        - {x: 128, y: -22.99997}
+      - - {x: -128, y: -13.9999695}
+        - {x: -128, y: -21.99997}
+        - {x: -94, y: -21.99997}
+        - {x: -89, y: -18.99997}
+        - {x: -89, y: -13.9999695}
+    - name: fg_fog_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.99994, y: -22.99997}
+        - {x: -127.99994, y: -71.99997}
+        - {x: 114.00006, y: -71.99997}
+        - {x: 128.00006, y: -68.99997}
+        - {x: 128.00006, y: -22.99997}
+      - - {x: -92.99994, y: -13.9999695}
+        - {x: -124.99994, y: -13.9999695}
+        - {x: -127.99994, y: -14.9999695}
+        - {x: -127.99994, y: -20.99997}
+        - {x: -124.99994, y: -21.99997}
+        - {x: -93.99994, y: -21.99997}
+        - {x: -89.99994, y: -19.99997}
+        - {x: -87.99994, y: -17.99997}
+        - {x: -88.99994, y: -14.9999695}
+    - name: fg_fog_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -22.99997}
+        - {x: -128, y: -71.99997}
+        - {x: 116, y: -71.99997}
+        - {x: 128, y: -69.99997}
+        - {x: 128, y: -22.99997}
+      - - {x: -93, y: -13.9999695}
+        - {x: -125, y: -13.9999695}
+        - {x: -128, y: -14.9999695}
+        - {x: -128, y: -20.99997}
+        - {x: -125, y: -21.99997}
+        - {x: -94, y: -21.99997}
+        - {x: -90, y: -19.99997}
+        - {x: -88, y: -17.99997}
+        - {x: -89, y: -14.9999695}
+    - name: fg_fog_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -22.99997}
+        - {x: -128.49988, y: -71.99997}
+        - {x: 128.50012, y: -71.99997}
+        - {x: 128.50012, y: -22.99997}
+      - - {x: -127.49988, y: -13.9999695}
+        - {x: -128.49988, y: -14.9999695}
+        - {x: -128.49988, y: -20.99997}
+        - {x: -125.49988, y: -21.99997}
+        - {x: -94.49988, y: -21.99997}
+        - {x: -90.49988, y: -19.99997}
+        - {x: -88.49988, y: -17.99997}
+        - {x: -89.49988, y: -13.9999695}
+    - name: fg_fog_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -22.99997}
+        - {x: -128.49988, y: -71.99997}
+        - {x: 128.50012, y: -71.99997}
+        - {x: 128.50012, y: -22.99997}
+      - - {x: -125.49988, y: -13.9999695}
+        - {x: -128.49988, y: -14.9999695}
+        - {x: -128.49988, y: -20.99997}
+        - {x: -126.49988, y: -21.99997}
+        - {x: -97.49988, y: -21.99997}
+        - {x: -91.49988, y: -18.99997}
+        - {x: -91.49988, y: -15.9999695}
+        - {x: -92.49988, y: -13.9999695}
+    - name: fg_fog_31
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.000122, y: -24.99997}
+        - {x: 40.000122, y: -28.99997}
+        - {x: -17.999878, y: -21.99997}
+        - {x: -127.99988, y: -21.99997}
+        - {x: -127.99988, y: -71.99997}
+        - {x: 120.00012, y: -71.99997}
+        - {x: 128.00012, y: -68.99997}
+        - {x: 128.00012, y: -27.99997}
+        - {x: 127.00012, y: -25.99997}
+      - - {x: -126.99988, y: -13.9999695}
+        - {x: -127.99988, y: -15.9999695}
+        - {x: -127.99988, y: -17.99997}
+        - {x: -124.99988, y: -21.99997}
+        - {x: -96.99988, y: -21.99997}
+        - {x: -91.99988, y: -20.99997}
+        - {x: -90.99988, y: -20.99997}
+        - {x: -90.99988, y: -15.9999695}
+        - {x: -92.99988, y: -13.9999695}
+    - name: fg_fog_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -15}
+        - {x: -128, y: -72}
+        - {x: 121, y: -72}
+        - {x: 128, y: -70}
+        - {x: 128, y: -19}
+        - {x: 63, y: -15}
+    - name: fg_fog_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -15}
+        - {x: -128, y: -72}
+        - {x: 122, y: -72}
+        - {x: 128, y: -71}
+        - {x: 128, y: -17}
+        - {x: 104, y: -15}
+    - name: fg_fog_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -15}
+        - {x: -128, y: -72}
+        - {x: 124, y: -72}
+        - {x: 128, y: -70}
+        - {x: 128, y: -26}
+        - {x: 99, y: -15}
+    - name: fg_fog_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.00006, y: -16}
+        - {x: -127.99994, y: -16}
+        - {x: -127.99994, y: -72}
+        - {x: 120.00006, y: -72}
+        - {x: 128.00006, y: -71}
+        - {x: 128.00006, y: -27}
+    - name: fg_fog_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 125, y: -72}
+        - {x: 128, y: -71}
+        - {x: 128, y: -27}
+        - {x: 122, y: -16}
+    - name: fg_fog_37
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -16}
+        - {x: -128.49988, y: -72}
+        - {x: 125.50012, y: -72}
+        - {x: 128.50012, y: -71}
+        - {x: 128.50012, y: -17}
+        - {x: 88.50012, y: -16}
+    - name: fg_fog_38
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.499878, y: -16}
+        - {x: -128.49988, y: -16}
+        - {x: -128.49988, y: -72}
+        - {x: 128.50012, y: -72}
+        - {x: 128.50012, y: -17}
+        - {x: 47.500122, y: -24}
+    - name: fg_fog_39
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.99988, y: -16}
+        - {x: -127.99988, y: -72}
+        - {x: 128.00012, y: -72}
+        - {x: 128.00012, y: -24}
+        - {x: 66.00012, y: -16}
+    - name: fg_fog_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -26}
+        - {x: -53, y: -16}
+        - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -29}
+        - {x: 126, y: -27}
+    - name: fg_fog_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -16}
+        - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -28}
+        - {x: 117, y: -22}
+    - name: fg_fog_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -20}
+        - {x: -13, y: -16}
+    - name: fg_fog_43
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.999939, y: -16}
+        - {x: -127.99994, y: -16}
+        - {x: -127.99994, y: -72}
+        - {x: 128.00006, y: -72}
+        - {x: 128.00006, y: -26}
+        - {x: 49.00006, y: -18}
+    - name: fg_fog_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -27}
+        - {x: 96, y: -16}
+    - name: fg_fog_45
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.49988, y: -16}
+        - {x: -128.49988, y: -72}
+        - {x: 128.50012, y: -72}
+        - {x: 128.50012, y: -17}
+        - {x: 127.50012, y: -16}
+    - name: fg_fog_46
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.500122, y: -23}
+        - {x: -33.499878, y: -16}
+        - {x: -128.49988, y: -16}
+        - {x: -128.49988, y: -72}
+        - {x: 128.50012, y: -72}
+        - {x: 128.50012, y: -17}
+        - {x: 125.50012, y: -18}
+    - name: fg_fog_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.99988, y: -16}
+        - {x: -127.99988, y: -72}
+        - {x: 128.00012, y: -72}
+        - {x: 128.00012, y: -20}
+        - {x: 11.000122, y: -16}
+    - name: fg_fog_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -16}
+        - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -28}
+        - {x: 92, y: -22}
+    - name: fg_fog_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -16}
+        - {x: -128, y: -72}
+        - {x: 128, y: -72}
+        - {x: 128, y: -22}
+        - {x: 58, y: -16}
+    - name: fg_fog_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fg_fog_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fg_fog_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fg_fog_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fg_fog_54
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fg_fog_55
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

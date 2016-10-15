@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GM_EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GM_EnemySpawner.cs" Line="86" Column="30" />
+      <File FileName="Assets\Scripts\GM_PlayerController.cs" Line="63" Column="1" />
+      <File FileName="Assets\Scripts\Enemy_Through.cs" Line="70" Column="55" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="61" Column="20" />
+      <File FileName="Assets\Scripts\Enemy_Far.cs" Line="64" Column="27" />
+      <File FileName="Assets\Scripts\Enemy_Near.cs" Line="64" Column="41" />
+      <File FileName="Assets\Scripts\Player_Girl_Clips.cs" Line="36" Column="28" />
+      <File FileName="Assets\Scripts\Player_Man_Clips.cs" Line="29" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Program Files\Unity\works\Surrounded_V21_Random\Assets\Scripts\GM_EnemySpawner.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: b0e2122b1ace2634ea34b8deda38862a
+timeCreated: 1459261297
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blood_Player_Man_A_1
+    21300002: Blood_Player_Man_A_2
+    21300004: Blood_Player_Man_A_3
+    21300006: Blood_Player_Man_A_4
+    21300008: Blood_Player_Man_A_5
+    21300010: Blood_Player_Man_A_6
+    21300012: Blood_Player_Man_A_7
+    21300014: Blood_Player_Man_A_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blood_Player_Man_A_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -148}
+        - {x: 62, y: -162}
+        - {x: 95, y: -162}
+        - {x: 97, y: -160}
+        - {x: 97, y: -148}
+      - - {x: -97, y: -30}
+        - {x: -97, y: -118}
+        - {x: -33, y: -155}
+        - {x: -13, y: -155}
+        - {x: 6, y: -144}
+        - {x: 6, y: -43}
+        - {x: -11, y: -30}
+    - name: Blood_Player_Man_A_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 324
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -124}
+        - {x: -71, y: -124}
+        - {x: -78, y: -131}
+        - {x: -78, y: -140}
+        - {x: -73, y: -142}
+        - {x: -71, y: -142}
+        - {x: -67, y: -137}
+        - {x: -67, y: -126}
+      - - {x: 29, y: 71}
+        - {x: -4, y: 91}
+        - {x: -35, y: 91}
+        - {x: -90, y: 19}
+        - {x: -92, y: 1}
+        - {x: -92, y: -89}
+        - {x: -25, y: -125}
+        - {x: 5, y: -125}
+        - {x: 21, y: -120}
+        - {x: 36, y: -58}
+        - {x: 36, y: 62}
+    - name: Blood_Player_Man_A_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -118}
+        - {x: -76, y: -124}
+        - {x: -76, y: -132}
+        - {x: -74, y: -135}
+        - {x: -66, y: -135}
+        - {x: -65, y: -134}
+        - {x: -65, y: -119}
+        - {x: -66, y: -118}
+      - - {x: 58, y: 35}
+        - {x: 38, y: 125}
+        - {x: 27, y: 132}
+        - {x: -32, y: 132}
+        - {x: -82, y: 114}
+        - {x: -90, y: 49}
+        - {x: -90, y: -93}
+        - {x: -55, y: -115}
+        - {x: 2, y: -115}
+        - {x: 6, y: -111}
+        - {x: 45, y: -44}
+        - {x: 58, y: -9}
+    - name: Blood_Player_Man_A_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 324
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -112}
+        - {x: -70, y: -112}
+        - {x: -74, y: -123}
+        - {x: -74, y: -130}
+        - {x: -66, y: -130}
+        - {x: -63, y: -125}
+        - {x: -63, y: -114}
+      - - {x: 82, y: -18}
+        - {x: 82, y: 50}
+        - {x: 79, y: 90}
+        - {x: 63, y: 157}
+        - {x: -41, y: 157}
+        - {x: -80, y: 129}
+        - {x: -92, y: 98}
+        - {x: -92, y: -82}
+        - {x: -51, y: -110}
+        - {x: 2, y: -110}
+        - {x: 7, y: -104}
+        - {x: 16, y: -90}
+        - {x: 65, y: -37}
+    - name: Blood_Player_Man_A_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -104}
+        - {x: -64, y: -105}
+        - {x: -70, y: -115}
+        - {x: -70, y: -120}
+        - {x: -65, y: -122}
+        - {x: -62, y: -122}
+        - {x: -59, y: -117}
+        - {x: -59, y: -106}
+      - - {x: 80, y: 55}
+        - {x: 71, y: 131}
+        - {x: 63, y: 162}
+        - {x: -56, y: 162}
+        - {x: -89, y: 95}
+        - {x: -89, y: -12}
+        - {x: -85, y: -63}
+        - {x: -55, y: -97}
+        - {x: -28, y: -102}
+        - {x: 5, y: -102}
+        - {x: 17, y: -89}
+        - {x: 42, y: -35}
+        - {x: 80, y: -7}
+      - - {x: 58, y: 152}
+        - {x: 55, y: 146}
+        - {x: 55, y: 137}
+        - {x: 65, y: 137}
+        - {x: 66, y: 138}
+        - {x: 66, y: 144}
+        - {x: 65, y: 150}
+        - {x: 63, y: 152}
+    - name: Blood_Player_Man_A_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -105}
+        - {x: -66, y: -106}
+        - {x: -72, y: -116}
+        - {x: -72, y: -121}
+        - {x: -67, y: -123}
+        - {x: -64, y: -123}
+        - {x: -61, y: -118}
+        - {x: -61, y: -107}
+      - - {x: 15, y: -33}
+        - {x: 7, y: -33}
+        - {x: -3, y: -40}
+        - {x: -3, y: -66}
+        - {x: -2, y: -67}
+        - {x: 2, y: -67}
+        - {x: 7, y: -65}
+        - {x: 12, y: -57}
+        - {x: 16, y: -46}
+        - {x: 16, y: -34}
+      - - {x: -68, y: -40}
+        - {x: -68, y: -47}
+        - {x: -62, y: -47}
+        - {x: -61, y: -45}
+        - {x: -61, y: -42}
+        - {x: -64, y: -40}
+      - - {x: -86, y: 13}
+        - {x: -76, y: -37}
+        - {x: -76, y: -38}
+        - {x: 51, y: -38}
+        - {x: 92, y: -26}
+        - {x: 92, y: 84}
+        - {x: 74, y: 157}
+        - {x: -48, y: 157}
+        - {x: -86, y: 106}
+      - - {x: 60, y: 129}
+        - {x: 59, y: 127}
+        - {x: 59, y: 124}
+        - {x: 63, y: 119}
+        - {x: 65, y: 119}
+        - {x: 67, y: 120}
+        - {x: 68, y: 123}
+        - {x: 68, y: 128}
+        - {x: 66, y: 129}
+    - name: Blood_Player_Man_A_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -105}
+        - {x: -66, y: -106}
+        - {x: -72, y: -116}
+        - {x: -72, y: -121}
+        - {x: -67, y: -123}
+        - {x: -64, y: -123}
+        - {x: -61, y: -118}
+        - {x: -61, y: -107}
+      - - {x: 15, y: 141}
+        - {x: 17, y: 142}
+        - {x: 19, y: 144}
+        - {x: 25, y: 147}
+        - {x: 25, y: 156}
+        - {x: -54, y: 156}
+        - {x: -81, y: 104}
+        - {x: -81, y: 72}
+        - {x: -69, y: 71}
+        - {x: -17, y: 10}
+        - {x: 16, y: -9}
+        - {x: 91, y: -9}
+        - {x: 92, y: -8}
+        - {x: 92, y: 28}
+        - {x: 61, y: 134}
+        - {x: 35, y: 153}
+        - {x: 19, y: 143}
+      - - {x: -69, y: 21}
+        - {x: -69, y: 18}
+        - {x: -68, y: 17}
+        - {x: -65, y: 17}
+        - {x: -59, y: 21}
+        - {x: -59, y: 25}
+        - {x: -63, y: 30}
+        - {x: -66, y: 29}
+      - - {x: -66, y: 35}
+        - {x: -63, y: 36}
+        - {x: -63, y: 39}
+        - {x: -66, y: 40}
+        - {x: -68, y: 38}
+      - - {x: -72, y: 47}
+        - {x: -72, y: 46}
+        - {x: -70, y: 44}
+        - {x: -69, y: 44}
+        - {x: -66, y: 47}
+        - {x: -66, y: 49}
+        - {x: -69, y: 50}
+      - - {x: -66, y: 63}
+        - {x: -68, y: 62}
+        - {x: -68, y: 59}
+        - {x: -67, y: 57}
+        - {x: -63, y: 57}
+        - {x: -61, y: 59}
+        - {x: -61, y: 60}
+        - {x: -62, y: 63}
+      - - {x: 60, y: 125}
+        - {x: 62, y: 122}
+        - {x: 66, y: 123}
+        - {x: 68, y: 125}
+        - {x: 68, y: 127}
+        - {x: 65, y: 128}
+    - name: Blood_Player_Man_A_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 194
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -105}
+        - {x: -66, y: -106}
+        - {x: -72, y: -116}
+        - {x: -72, y: -121}
+        - {x: -67, y: -123}
+        - {x: -64, y: -123}
+        - {x: -61, y: -118}
+        - {x: -61, y: -107}
+      - - {x: 36, y: 41}
+        - {x: 32, y: 27}
+        - {x: 32, y: 15}
+        - {x: 40, y: 11}
+        - {x: 44, y: 11}
+        - {x: 66, y: 21}
+        - {x: 67, y: 23}
+        - {x: 67, y: 29}
+        - {x: 46, y: 41}
+      - - {x: -69, y: 21}
+        - {x: -69, y: 18}
+        - {x: -68, y: 17}
+        - {x: -65, y: 17}
+        - {x: -59, y: 21}
+        - {x: -59, y: 25}
+        - {x: -63, y: 30}
+        - {x: -66, y: 29}
+      - - {x: 82, y: 25}
+        - {x: 80, y: 23}
+        - {x: 80, y: 22}
+        - {x: 83, y: 19}
+        - {x: 85, y: 19}
+        - {x: 87, y: 21}
+        - {x: 87, y: 23}
+        - {x: 85, y: 25}
+      - - {x: 50, y: 136}
+        - {x: 42, y: 136}
+        - {x: 41, y: 134}
+        - {x: 37, y: 118}
+        - {x: 29, y: 83}
+        - {x: 29, y: 69}
+        - {x: 33, y: 69}
+        - {x: 41, y: 72}
+        - {x: 45, y: 74}
+        - {x: 63, y: 89}
+        - {x: 63, y: 130}
+      - - {x: -35, y: 134}
+        - {x: -53, y: 135}
+        - {x: -76, y: 105}
+        - {x: -76, y: 76}
+        - {x: -46, y: 76}
+        - {x: 11, y: 112}
+        - {x: 11, y: 142}
+        - {x: 1, y: 151}
+        - {x: -26, y: 151}
+        - {x: -38, y: 144}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
