@@ -25,4 +25,5 @@ public class HomeUI : MonoBehaviour
 		uiRect = transform.FindChild ("ReturnButton").GetComponent<RectTransform> ();
 		uiRect.anchoredPosition = new Vector2(uiRect.anchoredPosition.x, uiRect.anchoredPosition.y+blackBar);
 	}
+
 }
