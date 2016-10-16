@@ -1,1 +1,1 @@
-<h1><b># DuoHero</b></h1><p>水墨风的Unity战斗游戏。</p><p><br></p><h2>ACTION：</h2><p>增加敌人AI，不让敌人无序出现。</p><h3>AI设计原则：</h3><p>感知：敌人需要感知环境，对手和队友的情况。</p><p>路径计算：</p><p>决策：针对不同情况制定不同行动方案。</p><div><br></div>
+<h1><b># DuoHero</b></h1><p>水墨风的Unity战斗游戏。</p><p><br></p><h2>ACTION：</h2><p>增加敌人AI，不让敌人无序出现。</p><h3>AI设计原则：</h3><p>感知：敌人需要感知环境，对手和队友的情况。</p><p>路径计算：A*算法</p><p>决策：针对不同情况制定不同行动方案。FSM有限状态机、<span style="color: rgb(34, 34, 34); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 22.1px;">Behavior Tree</span></p><div><br></div>
