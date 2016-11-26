@@ -4,7 +4,7 @@ using System.Collections;
 public class Request : MonoBehaviour {
 	
 	void Start () {
-		string url = "http://192.168.1.113:8888/rest/duohero/level";
+		string url = "http://139.196.202.91:8888/rest/duohero/level";
 		WWW www = new WWW(url);
 		StartCoroutine(WaitForRequest(www));
 	}
