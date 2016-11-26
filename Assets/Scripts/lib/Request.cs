@@ -17,7 +17,7 @@ public class Request : MonoBehaviour {
 		if (www.error == null)
 		{
 			Debug.Log("WWW Ok!: " + www.text);
-			System.IO.File.WriteAllText(Application.streamingAssetsPath + "/level.cfg",www.text);
+			System.IO.File.WriteAllText(Application.streamingAssetsPath + "/stage.json",www.text);
 		} else {
 			Debug.Log("WWW Error: "+ www.error);
 		}    

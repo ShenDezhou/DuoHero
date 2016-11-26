@@ -110,7 +110,7 @@ public class GM_EnemySpawner : MonoBehaviour
 //			enemyQueue.Enqueue (elem);
 //		}
 		// using json
-		JSONNode level_json = JSONData.LoadFromFile (Application.streamingAssetsPath + "/level.cfg");
+		JSONNode level_json = JSONData.LoadFromFile (Application.streamingAssetsPath + "/stage.json");
 		for (int i = 0; i < level_json.Count; i++) {
 			SpawnType elem = new SpawnType ();
 			elem.tag = level_json [i] ["tag"];
